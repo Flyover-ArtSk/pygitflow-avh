@@ -1,14 +1,15 @@
-pygitflow: Installs git-flow as a Python Package.
+pygitflow-avh: Installs git-flow (AVH Edition) as a Python Package.
 
-https://github.com/ampledata/pygitflow
+https://github.com/rajivbattula/pygitflow-avh
 
 Author
 ======
-Greg Albrecht <gba@splunk.com>
+Original: Greg Albrecht <gba@splunk.com>
+Modified by: Rajiv Battula <rbattula@splunk.com
 
 Copyright
 =========
-Copyright 2012 Splunk, Inc.
+Copyright 2013 Splunk, Inc.
 
 License
 =======

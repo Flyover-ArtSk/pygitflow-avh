@@ -1,1 +1,1 @@
-Installs git-flow as a Python Package.
+Installs git-flow (AVH edition) as a Python Package.

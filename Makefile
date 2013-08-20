@@ -1,9 +1,9 @@
 # Makefile for creating Pythonic Git Flow.
 #
-# Author:: Greg Albrecht <mailto:gba@splunk.com>
-# Copyright:: Copyright 2012 Splunk, Inc.
+# Original Author:: Greg Albrecht <mailto:gba@splunk.com>
+# Modified by:: Rajiv Battula <mailto:rbattula@splunk.com>
+# Copyright:: Copyright 2013 Splunk, Inc.
 # License:: Apache License 2.0
-#
 
 
 .DEFAULT: init
@@ -41,4 +41,4 @@ install:
 	python setup.py install
 
 uninstall:
-	pip uninstall pygitflow
+	pip uninstall pygitflow-avh
