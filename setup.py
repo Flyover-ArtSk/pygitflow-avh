@@ -8,7 +8,7 @@ import gflib
 
 
 setuptools.setup(
-    version='1.1.0',
+    version='1.2.0',
     name='pygitflow-avh',
     description='Pythonic Installer for Git Flow (AVH Edition).',
     author='Rajiv Battula',
